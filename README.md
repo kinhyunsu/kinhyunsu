@@ -1,4 +1,4 @@
-## Welcome to my Space 👋
+![java](https://github.com/user-attachments/assets/80f93816-a4f6-47ba-8ed5-de18ad79fcfa)## Welcome to my Space 👋
 
 <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Hyunsu</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
@@ -67,6 +67,7 @@
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges --> 
+   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/java.png?raw=true" alt="java" vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/c.svg" alt="csharp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
