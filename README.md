@@ -1,4 +1,4 @@
-![java](https://github.com/user-attachments/assets/80f93816-a4f6-47ba-8ed5-de18ad79fcfa)## Welcome to my Space 👋
+Welcome to my Space 👋
 
 <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Hyunsu</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
