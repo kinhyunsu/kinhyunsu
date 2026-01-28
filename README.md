@@ -30,14 +30,12 @@ Welcome to my Space 👋
  - 🥀 Learning java % Spring
  
  - <i>with C, Python , etc.</i>
-   
- - 🔭 SpaceX FanBoi, die for space😼
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
- 
- - I do backend and a bit of everything :heart:
- 
- - All About living life at its best.
+ - 배움을 즐기는 신입 개발자
+
+ - 문제 해결력과 빠른 습득력
+
+ - 신입 백엔드 개발자입니다.
  
 
  
