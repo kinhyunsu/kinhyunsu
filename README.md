@@ -26,7 +26,6 @@ Welcome to my Space 👋
 <p align="center">
   <h3>I'm 27 years old Backend developer from South Korea</h3>
 </p>
-
  - 🥀 Learning java % Spring
  
  - <i>with C, Python , etc.</i>
@@ -54,13 +53,6 @@ Welcome to my Space 👋
 
 ### - Languages and Tools...
 
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges --> 
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/java.png?raw=true" alt="java" vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio.png?raw=true" alt="visual studio"style="vertical-align:top; margin:4px">
-</p>
 
 <!--
 ### - Blogs 🌱
